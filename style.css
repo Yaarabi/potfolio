@@ -38,3 +38,15 @@
   ul{
     list-style-type: none;
   }
+  #work{
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+  #resume > ul{
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+  #resume > p{
+    margin-left: 250px;
+    margin-right: 250px;
+  }
